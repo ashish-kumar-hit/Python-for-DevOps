@@ -1,3 +1,5 @@
+>> List is a fundamental data structure in programming that allows you to store collection of items.
+
 >> Get list of s3 buckets in particular aws account & print it
 
 List are mutable & Tuple is immutable
@@ -8,6 +10,4 @@ In-build functions: append, remove, len, sort, cancatenation
 
 >> Slicing also covered
 
->> We can store diffrent Data Types in list because everything in list is a element but same thing don't happen in Tuple
-
->> List is hetrogenous & Tuple is homogeneous
+>> List & Tuples both are hetrogenous in Nature
