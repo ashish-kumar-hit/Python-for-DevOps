@@ -5,7 +5,7 @@ print(length(result)) # Here length is not partof in-build function replace it w
 
 # Function Call
 print(result.upper)
-Here you are not calling the function that's why you will only get adress of this result.
+Here you are not calling the function that's why you will only get address of this result.
 
 # NameError
 If you won't define the variable type
@@ -29,3 +29,9 @@ for key, value in my_dict.items:
 
 # JSON decode Error
 It means the data is not convertable to Json, check wheather you are fetching data from right url(I mean right API)
+
+# ValueError: I/O operation on closed file
+It means either you forget to open the file or if you open then you forget to open as with variable name
+
+with open(file_path,'w):
+    file.write(line)
