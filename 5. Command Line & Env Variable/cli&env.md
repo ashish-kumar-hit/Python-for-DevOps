@@ -9,5 +9,5 @@ Example: Secret Password, API Key etc
 Let suppose you want to list all s3 bucket in from your aws account
 
 aws configure: part of environment variable
-aws s3 ls: Part ofcommand line argument
+aws s3 ls: Part of command line argument
 

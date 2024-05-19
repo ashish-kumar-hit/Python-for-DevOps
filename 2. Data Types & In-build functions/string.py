@@ -8,7 +8,7 @@ print(result)
 print(len(result))
 
 # Upper & Lower Case
-print("UpperCase:", result.upper)
+print("UpperCase:", result.upper())
 print("LowerCAse:", result.lower())
 
 # Replace
